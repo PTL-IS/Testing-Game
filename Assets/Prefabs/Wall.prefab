@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1459053627790443567}
   - component: {fileID: 1459053627790443565}
   - component: {fileID: 1459053627790443564}
+  - component: {fileID: 4090776831077696852}
   m_Layer: 0
   m_Name: Wall
   m_TagString: Untagged
@@ -108,3 +109,29 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &4090776831077696852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1459053627790443566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShadowGroup: 0
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_ApplyToSortingLayers: 000000001d94c69de160d086
+  m_ShapePath:
+  - {x: -0.5000759, y: -0.5035143, z: 0}
+  - {x: 0.5001163, y: -0.50113773, z: 0}
+  - {x: 0.5009697, y: 0.50113773, z: 0}
+  - {x: -0.4994117, y: 0.49791718, z: 0}
+  m_ShapePathHash: -1284254294
+  m_Mesh: {fileID: 0}
+  m_InstanceId: 20980
