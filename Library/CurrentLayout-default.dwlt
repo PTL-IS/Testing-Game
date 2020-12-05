@@ -465,20 +465,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprite
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sprite
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\liaml\Desktop\Testing-Game
+  m_LastProjectPath: C:\Users\liaml\Documents\Testing-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce430000
-    m_LastClickedID: 17358
-    m_ExpandedIDs: 000000000e4100009c4300009e43000000ca9a3b
+    m_SelectedIDs: 28440000
+    m_LastClickedID: 17448
+    m_ExpandedIDs: 00000000564100001e4400002044000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -506,7 +506,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000e4100009c4300009e430000
+    m_ExpandedIDs: 00000000564100001e44000020440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -629,9 +629,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c6aaffff
-      m_LastClickedID: -21818
-      m_ExpandedIDs: 32fbffffe44100000c420000
+      m_SelectedIDs: 2c420000
+      m_LastClickedID: 16940
+      m_ExpandedIDs: 42faffff364200007e420000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -691,9 +691,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.4541855, y: -1.4711142, z: -17.012518}
+    m_Target: {x: 3.0301418, y: -1.3719907, z: -8.337402}
     speed: 2
-    m_Value: {x: 12.4541855, y: -1.4711142, z: -17.012518}
+    m_Value: {x: 3.0301418, y: -1.3719907, z: -8.337402}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -743,9 +743,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 15.018626
+    m_Target: 7.700369
     speed: 2
-    m_Value: 15.018626
+    m_Value: 7.700369
   m_Ortho:
     m_Target: 1
     speed: 2
