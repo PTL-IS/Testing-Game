@@ -9,13 +9,15 @@ public class LightsOut : MonoBehaviour
     public Text lightText;
     private float nextUpdate = 1;
     private float t = 0f;
+    public float lightDelay;
+    public float lightSpeed;
 
     // Update is called once per frame
     void Update()
     {
-        t += 0.3f * Time.deltaTime;
+        t += lightSpeed * Time.deltaTime;
         if (lightText.text != "Q"){
-            light.pointLightOuterRadius = Mathf.Lerp(0.5f, 5f, t);
+            light.pointLightOuterRadius = Mathf.Lerp(0.5f, 5f, t-lightDelay);
         }
         if (lightText.text == "Q" && Input.GetKeyDown(KeyCode.Q))
         {
