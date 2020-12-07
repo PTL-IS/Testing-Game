@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public Animator animator;
-    public float playerSpeed;
+    public  float playerSpeed;
     private Rigidbody2D rb2d;
     // Update is called once per frame
     void Start()
